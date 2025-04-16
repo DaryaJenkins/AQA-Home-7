@@ -12,7 +12,13 @@ build/
 .springBeans
 .sts4-cache
 
-.idea
+.idea/
+gradle/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
+
 *.iws
 *.iml
 *.ipr
